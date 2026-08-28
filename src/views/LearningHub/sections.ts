@@ -267,6 +267,27 @@ import { BL4CapturingRace6 } from "./Sections/BeginnerLevel4/CapturingRace6";
 import { BL4CapturingRace7 } from "./Sections/BeginnerLevel4/CapturingRace7";
 import { BL4CapturingRace8 } from "./Sections/BeginnerLevel4/CapturingRace8";
 import { BL4CapturingRace9 } from "./Sections/BeginnerLevel4/CapturingRace9";
+import { BL4LifeDeath1 } from "./Sections/BeginnerLevel4/LifeDeath1";
+import { BL4LifeDeath2 } from "./Sections/BeginnerLevel4/LifeDeath2";
+import { BL4LifeDeath3 } from "./Sections/BeginnerLevel4/LifeDeath3";
+import { BL4LifeDeath4 } from "./Sections/BeginnerLevel4/LifeDeath4";
+import { BL4LifeDeath5 } from "./Sections/BeginnerLevel4/LifeDeath5";
+import { BL4LifeDeath6 } from "./Sections/BeginnerLevel4/LifeDeath6";
+import { BL4LifeDeath7 } from "./Sections/BeginnerLevel4/LifeDeath7";
+import { BL4LifeDeath8 } from "./Sections/BeginnerLevel4/LifeDeath8";
+import { BL4LifeDeath9 } from "./Sections/BeginnerLevel4/LifeDeath9";
+import { BL4LifeDeath10 } from "./Sections/BeginnerLevel4/LifeDeath10";
+import { BL4Haengma1 } from "./Sections/BeginnerLevel4/Haengma1";
+import { BL4Haengma2 } from "./Sections/BeginnerLevel4/Haengma2";
+import { BL4Haengma3 } from "./Sections/BeginnerLevel4/Haengma3";
+import { BL4Haengma4 } from "./Sections/BeginnerLevel4/Haengma4";
+import { BL4Haengma5 } from "./Sections/BeginnerLevel4/Haengma5";
+import { BL4Haengma6 } from "./Sections/BeginnerLevel4/Haengma6";
+import { BL4Haengma7 } from "./Sections/BeginnerLevel4/Haengma7";
+import { BL4Haengma8 } from "./Sections/BeginnerLevel4/Haengma8";
+import { BL4Haengma9 } from "./Sections/BeginnerLevel4/Haengma9";
+import { BL4Haengma10 } from "./Sections/BeginnerLevel4/Haengma10";
+import { BL4Haengma11 } from "./Sections/BeginnerLevel4/Haengma11";
 
 export const sections: [string, any[]][] = [
     [
@@ -542,6 +563,27 @@ export const sections: [string, any[]][] = [
             BL4CapturingRace7,
             BL4CapturingRace8,
             BL4CapturingRace9,
+            BL4LifeDeath1,
+            BL4LifeDeath2,
+            BL4LifeDeath3,
+            BL4LifeDeath4,
+            BL4LifeDeath5,
+            BL4LifeDeath6,
+            BL4LifeDeath7,
+            BL4LifeDeath8,
+            BL4LifeDeath9,
+            BL4LifeDeath10,
+            BL4Haengma1,
+            BL4Haengma2,
+            BL4Haengma3,
+            BL4Haengma4,
+            BL4Haengma5,
+            BL4Haengma6,
+            BL4Haengma7,
+            BL4Haengma8,
+            BL4Haengma9,
+            BL4Haengma10,
+            BL4Haengma11,
         ],
     ],
 
